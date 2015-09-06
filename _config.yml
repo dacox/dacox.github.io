@@ -5,10 +5,10 @@ name: www.dacox.net
 description:
 
   # Discription of your site, this will show up in google.
-  meta: Doug Cox is a software developer, coffee geek, and beer snob living in Victoria, British Columbia.
+  meta: Doug cox is a software developer, coffee geek, and craft beer enthusiast living in Victoria, British Columbia.
 
   # Discription of your site, this will show up on the front page.
-  subtitle: Doug cox is a software developer, coffee geek, and beer snob living in Victoria, British Columbia.
+  subtitle: Doug cox is a software developer, coffee geek, and craft beer enthusiast living in Victoria, British Columbia. 
 
 author:
   name: Doug Cox
@@ -20,7 +20,7 @@ author:
   # want it.
   info:
 
-url: https://dacox.github.io
+url: dacox.github.io
 baseurl: ""
 
 # language attribute in <html> element.
@@ -103,7 +103,7 @@ codepen:
 dribbble:
 trello:
 stack-overflow:
-bitcoin:
+bitcoin: https://blockchain.info/address/16w8jYyHqywaytBSmkBaBu6eRQnzvF1x5X
 paypal:
 
 
