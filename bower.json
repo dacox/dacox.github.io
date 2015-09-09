@@ -1,0 +1,21 @@
+{
+  "name": "dacox.net",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dacox/dacox.net",
+  "authors": [
+    "Doug Cox <self@dacox.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "2.1.4",
+    "jquery.fitvids": "fitvids#~1.1.0",
+    "modernizr": "2.8.3"
+  }
+}

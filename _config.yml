@@ -146,3 +146,6 @@ defaults:
     values:
       layout: "post"
       excerpt_separator: "<!--more-->"
+
+exclude: ["node_modules", "bower_components", "package.json", "bower.json"]
+

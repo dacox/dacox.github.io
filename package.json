@@ -1,0 +1,17 @@
+{
+  "name": "dacox.net",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dacox/dacox.net.git"
+  },
+  "author": "Doug Cox <self@dacox.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "bower": "~1.5.2"
+  }
+}
