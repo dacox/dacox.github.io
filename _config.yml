@@ -1,3 +1,5 @@
+source: src
+destination: _site 
 
 # The name of your website.
 name: Dribs and Drabs
