@@ -240,12 +240,12 @@ hr {
   padding: 0 15px;
   max-width: 700px;
   min-height: 100%;
-  margin-bottom: -141px;
+  margin-bottom: -81px;
 }
 .wrap::after {
   content: "";
   display: block;
-  height: 141px;
+  height: 81px;
 }
 header {
   padding-top: 20px;
@@ -334,7 +334,7 @@ footer {
   text-align: center;
   background-color: rgba({{ site.text-color }}, 0.05);
   border-top: 1px solid rgba({{ site.text-color }}, 0.1);
-  height: 140px;
+  height: 80px;
 }
 footer a {
   background-image: none;
@@ -345,6 +345,11 @@ footer .inner {
   margin: 0 auto;
   padding: 0 15px;
   max-width: 740px;
+}
+
+footer .inner p {
+  margin-top: 25px;
+  margin-bottom: 0px;
 }
 
 
